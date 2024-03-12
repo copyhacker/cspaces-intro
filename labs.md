@@ -2,7 +2,7 @@
 ## Tools for secure and collaborative cloud-based development
 ## Revision 1.0 - 03/08/24
 
-**NOTE: Depending on your broswer and setup, to copy and paste in the codespace, you may need to use keyboard commands - CTRL+C and CTRL+V**
+**NOTE: Depending on your browser and setup, to copy and paste in the codespace, you may need to use keyboard commands - CTRL+C and CTRL+V**
 
 **NOTE: It is recommended to have a copy of these labs open in a separate browser tab/window since we will be creating/switching between several codespaces during the workshop.**
 
